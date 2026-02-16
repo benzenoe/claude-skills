@@ -1,0 +1,334 @@
+{
+  "en": {
+    "out_suffix": "",
+    "name": "Eytan Benzeno",
+    "portugal": "Portugal", "usa": "USA",
+    "locations_label": "Locations:",
+    "locations": "Lisbon, Luxembourg, Miami",
+    "tagline": "Technologist, Operator, Marketer",
+    "license1": "Licensed Florida Real Estate Broker,",
+    "license2": "IMI Licensed Real Estate Broker (Portugal)",
+    "summary_heading": "Professional Summary",
+    "summary": "Senior operator with over 20 years of experience across real estate, technology, operations, asset management, e-commerce, and banking. Proven success in expanding and repositioning ventures—from developing multi-million-dollar e-commerce businesses to advising on property investments and managing high-performing hospitality portfolios. Expert in stabilizing execution, managing delivery risk, and ensuring high-value assets and projects perform reliably under real-world constraints. Highly proficient in artificial intelligence, business technology, digital marketing, lead generation, and customer experience, utilizing modern tools to boost efficiency and growth. Active in Portugal, Luxembourg, and the United States, focusing on operational execution, sales strategies, emerging technologies, and cross-border investments. Brings agile leadership, strong negotiation and deal-making skills, and a results-oriented mindset to future-focused organizations.",
+    "competence_heading": "Core Competence",
+    "competence": "Operations • Project Management • E-commerce • Artificial Intelligence • Business Strategy • Marketing Strategy • Digital Advertising • Social Media • Team Leadership • Real Estate Investment • Deal Structuring • Asset Optimization • Property Acquisition & Management • Hospitality • Sales • Technology",
+    "experience_heading": "Professional Experience",
+    "jobs": [
+      {
+        "title": "Founder & Partner",
+        "company": "SoldHere, LDA – Lisbon, Portugal | March 2023 – Present",
+        "bullets": [
+          "Licensed by IMI to mediate real estate transactions in Portugal.",
+          "Collaborated with developers on land acquisition, subdivision licensing, and building plan approvals in Portugal.",
+          "Managed acquisition, sales, repositioning, licensing, and short-term rental strategy for high-yield properties in Portugal.",
+          "Leveraged AI and digital tools for customer targeting, automation, and operational optimization.",
+          "Oversaw full operational lifecycle, including AL licensing, guest experience, and performance analytics."
+        ]
+      },
+      {
+        "title": "Co-Founder & Technology Partner",
+        "company": "Bogen.ai / REIGNation Mastermind – Remote/USA | May 2023 – Present",
+        "bullets": [
+          "Built a subscription-based coaching and mastermind platform serving a community of 400+ real-estate professionals.",
+          "Act as the head of technology, leading platform development, AI integrations, marketing strategies, and automation workflows. Providing a vast array of AI services and interactions to members & clients.",
+          "Designed and led courses for realtors on the use of AI to improve and streamline their real estate practice.",
+          "Implemented systems using automation and segmentation to improve client targeting and member experience."
+        ]
+      },
+      {
+        "title": "Licensed Real Estate Broker & Real Estate Advisor",
+        "company": "BeachFront Realty – South Florida, USA | 2009 – Present",
+        "bullets": [
+          "Specializing in real estate farming, developing long-term relationships in targeted geographic markets to capture consistent listing opportunities.",
+          "Worked across both residential and commercial real estate, including transactions for investment properties, retail spaces, and mixed-use developments.",
+          "Collaborated with developers on land acquisition, subdivision licensing, and building plan approvals in Florida.",
+          "Specializing in high-end new construction and waterfront condos for U.S. & international clients.",
+          "Applied predictive analytics, AI, and advanced CRM tools to generate leads and structure personalized sales journeys.",
+          "Developed branded digital campaigns to capture affluent clientele."
+        ]
+      },
+      {
+        "title": "Founder & CEO",
+        "company": "BeachStore.com – USA | 1999 – 2020",
+        "bullets": [
+          "Launched and scaled a direct-to-consumer e-commerce brand into a multi-million-dollar business.",
+          "Grew the business to $3M in seasonal sales per summer, with overall sales exceeding $30M over a period of 15 years.",
+          "First e-commerce business to sell beach chairs online; first-to-market and market leader in the category for over 15 years.",
+          "Directed all digital advertising (SEO, PPC, & Social Media), content creation, email marketing, purchasing, product design & development, logistics, operations, and warehousing.",
+          "Built and positioned a lifestyle brand in the leisure and recreation space, combining seasonal market insights with digital engagement strategies to drive growth and visibility."
+        ]
+      },
+      {
+        "title": "International Banking Officer",
+        "company": "Republic National Bank (later HSBC) – New York, NY | 1991 – 2003",
+        "bullets": [
+          "Managed international banking accounts and led large-scale system integrations.",
+          "Directed the Y2K compliance project involving 3,400+ applications across 400 consultants.",
+          "Developed business intelligence processes for financial analysis, risk assessment, and operational forecasting.",
+          "Gained financial operations experience that later supported real-estate investment due diligence and structuring."
+        ]
+      },
+      {
+        "title": "Manager, Summer House Bed & Breakfast",
+        "company": "Private Hospitality Business – New York, USA | Summers, 1993–2003",
+        "bullets": [
+          "Managed seasonal sales & operations of self-run bed and breakfast properties in Fire Island and the Hamptons for over a decade.",
+          "Acquired and operated strategic seasonal venues; managed all aspects of sales & guest services, including check-ins, housekeeping, food service, recreational programming, and tailored hospitality activities & experiences.",
+          "Developed marketing strategies through word-of-mouth and local tourism boards to attract repeat and new clientele.",
+          "Gained hands-on knowledge in hospitality service delivery and guest satisfaction that later informed professional hotel and short-term rental ventures."
+        ]
+      }
+    ],
+    "edu_heading": "Education",
+    "edu_degree": "BBA – Banking & Finance",
+    "edu_school": "Adelphi University – NY, USA | 1991",
+    "edu_details": "Dean's List | Courses: Finance, International Banking, Accounting, Marketing, Investment Analysis",
+    "tech_heading": "Tech Stack",
+    "tech_text": "MLS • CRM & Sales Funnels • ERP Admin • Smart Home Automation • Google Workspace • Shopify • Kajabi • Lofty • Squarespace • Wix • NetSuite Oracle • Microsoft Office Suite • Adobe Creative Cloud • ChatGPT • Claude Code certified • Gemini • GenSpark • MidJourney • Canva • DeepSeek • HeyGen • Caption • eGo • Google AI Studio • Xero • Voixia • Twilio • Zoom • Otter • Speechify • Facebook • Instagram • LinkedIn • X (Twitter) • TikTok • YouTube • Discord • HubSpot • Network Architecture & Management • ISO • Windows",
+    "lang_heading": "Languages",
+    "lang_fluent": "English, French & Hebrew (Native Fluent)",
+    "lang_learning": "Portuguese & Spanish (Learning)",
+    "goals_heading": "Professional Goals",
+    "goals_text": "Seeking leadership opportunities in real estate, hospitality, or asset management where innovation, technology, and strategic execution can drive growth and value creation.",
+    "aff_heading": "Groups & Affiliations",
+    "affiliations": [
+      "REIGNation Real Estate Community – Founder & Member",
+      "MED Condo Board – President",
+      "American Club of Lisbon – Active Member",
+      "International Portuguese Club – Active Member",
+      "AEPi Alumni Association – Active Member",
+      "Adelphi University Alumni Association – Active Member",
+      "Miami Realtor® Association – Active Member",
+      "National Association of REALTORS (NAR) – Member",
+      "DiSi Credito, Playa Beach Company, CenterStage, Mountain Breeze, AdvanceFigures, & Dave T Productions – Board of Advisors/Directors.",
+      "New York Road Runners (NYRR) – Member"
+    ],
+    "int_heading": "Personal Interest",
+    "interests": [
+      "Avid follower of global news and current affairs, with a strong focus on financial markets, politics, real estate, economics, AI, blockchain, quantum computing, renewable energy, biotech, and robotics. Enthusiast of space, science, quantum physics, and emerging technologies.",
+      "A happy bon vivant passionate about global cuisine and home cooking, with an active lifestyle (running, hiking, golf, cycling, tennis, fitness), frequent travel, cultural exploration, and community engagement."
+    ]
+  },
+
+  "fr": {
+    "out_suffix": "-FR",
+    "name": "Eytan Benzeno",
+    "portugal": "Portugal", "usa": "USA",
+    "locations_label": "Localisations :",
+    "locations": "Lisbonne, Luxembourg, Miami",
+    "tagline": "Technologue, Opérateur, Marketeur",
+    "license1": "Courtier Immobilier Agréé en Floride,",
+    "license2": "Courtier Immobilier Agréé IMI (Portugal)",
+    "summary_heading": "Résumé Professionnel",
+    "summary": "Opérateur senior avec plus de 20 ans d'expérience dans l'immobilier, la technologie, les opérations, la gestion d'actifs, le e-commerce et la banque. Succès avéré dans l'expansion et le repositionnement de ventures—du développement d'entreprises e-commerce à plusieurs millions de dollars au conseil en investissements immobiliers et à la gestion de portefeuilles d'hospitalité performants. Expert dans la stabilisation de l'exécution, la gestion des risques de livraison et la garantie que les actifs et projets de haute valeur fonctionnent de manière fiable sous des contraintes réelles. Très compétent en intelligence artificielle, technologie d'entreprise, marketing digital, génération de leads et expérience client, utilisant des outils modernes pour stimuler l'efficacité et la croissance. Actif au Portugal, au Luxembourg et aux États-Unis, se concentrant sur l'exécution opérationnelle, les stratégies de vente, les technologies émergentes et les investissements transfrontaliers. Apporte un leadership agile, de solides compétences en négociation et en conclusion d'accords, et un état d'esprit orienté résultats aux organisations tournées vers l'avenir.",
+    "competence_heading": "Compétences Clés",
+    "competence": "Opérations • Gestion de Projet • E-commerce • Intelligence Artificielle • Stratégie d'Entreprise • Stratégie Marketing • Publicité Digitale • Médias Sociaux • Leadership d'Équipe • Investissement Immobilier • Structuration d'Accords • Optimisation d'Actifs • Acquisition et Gestion de Propriétés • Hôtellerie • Ventes • Technologie",
+    "experience_heading": "Expérience Professionnelle",
+    "jobs": [
+      {
+        "title": "Fondateur & Associé",
+        "company": "SoldHere, LDA – Lisbonne, Portugal | Mars 2023 – Présent",
+        "bullets": [
+          "Agréé par l'IMI pour exercer la médiation dans les transactions immobilières au Portugal.",
+          "Collaboration avec des promoteurs sur l'acquisition de terrains, l'obtention de permis de lotissement et l'approbation de plans de construction au Portugal.",
+          "Gestion de l'acquisition, des ventes, du repositionnement, de la mise en conformité et de la stratégie de location courte durée pour des propriétés à haut rendement au Portugal.",
+          "Utilisation de l'IA et des outils numériques pour le ciblage client, l'automatisation et l'optimisation opérationnelle.",
+          "Supervision du cycle de vie opérationnel complet, y compris la mise en conformité AL, l'expérience client et l'analyse des performances."
+        ]
+      },
+      {
+        "title": "Co-Fondateur & Partenaire Technologique",
+        "company": "Bogen.ai / REIGNation Mastermind – Remote/USA | Mai 2023 – Présent",
+        "bullets": [
+          "Construction d'une plateforme de coaching et mastermind par abonnement au service d'une communauté de 400+ professionnels de l'immobilier.",
+          "Rôle de responsable technologique, pilotant le développement de la plateforme, les intégrations IA, les stratégies marketing et les workflows d'automatisation.",
+          "Conception et animation de formations pour les agents immobiliers sur l'utilisation de l'IA.",
+          "Mise en place de systèmes d'automatisation et de segmentation pour améliorer le ciblage client et l'expérience des membres."
+        ]
+      },
+      {
+        "title": "Courtier Immobilier Agréé & Conseiller Immobilier",
+        "company": "BeachFront Realty – Sud de la Floride, USA | 2009 – Présent",
+        "bullets": [
+          "Spécialisé dans le développement de relations à long terme sur des marchés géographiques ciblés pour capter des opportunités de mise en vente régulières.",
+          "Travail dans l'immobilier résidentiel et commercial, y compris les transactions pour des propriétés d'investissement, des espaces commerciaux et des développements mixtes.",
+          "Collaboration avec des promoteurs sur l'acquisition de terrains, l'obtention de permis et l'approbation de plans de construction en Floride.",
+          "Spécialisé dans les nouvelles constructions haut de gamme et les condos en bord de mer pour des clients américains et internationaux.",
+          "Application de l'analyse prédictive, de l'IA et des outils CRM avancés pour générer des leads et structurer des parcours de vente personnalisés.",
+          "Développement de campagnes digitales de marque pour attirer une clientèle aisée."
+        ]
+      },
+      {
+        "title": "Fondateur & PDG",
+        "company": "BeachStore.com – USA | 1999 – 2020",
+        "bullets": [
+          "Lancement et mise à l'échelle d'une marque e-commerce direct-to-consumer en une entreprise multi-millionnaire.",
+          "Croissance de l'entreprise à 3 millions de dollars de ventes saisonnières par été, avec des ventes totales dépassant 30 millions de dollars sur 15 ans.",
+          "Première entreprise e-commerce à vendre des chaises de plage en ligne ; précurseur et leader du marché pendant plus de 15 ans.",
+          "Direction de toute la publicité digitale (SEO, PPC & Médias Sociaux), création de contenu, email marketing, achats, conception de produits, logistique, opérations et gestion des entrepôts.",
+          "Construction et positionnement d'une marque de style de vie combinant insights saisonniers avec des stratégies d'engagement digital."
+        ]
+      },
+      {
+        "title": "Chargé de Clientèle Bancaire International",
+        "company": "Republic National Bank (puis HSBC) – New York, NY | 1991 – 2003",
+        "bullets": [
+          "Gestion de comptes bancaires internationaux et direction d'intégrations de systèmes à grande échelle.",
+          "Direction du projet de conformité Y2K impliquant 3 400+ applications et 400 consultants.",
+          "Développement de processus d'intelligence économique pour l'analyse financière, l'évaluation des risques et les prévisions opérationnelles.",
+          "Acquisition d'une expérience en opérations financières qui a ensuite soutenu la due diligence et la structuration d'investissements immobiliers."
+        ]
+      },
+      {
+        "title": "Directeur, Summer House Bed & Breakfast",
+        "company": "Entreprise d'Hôtellerie Privée – New York, USA | Étés, 1993–2003",
+        "bullets": [
+          "Gestion des ventes saisonnières et des opérations de chambres d'hôtes à Fire Island et dans les Hamptons pendant plus d'une décennie.",
+          "Acquisition et exploitation de lieux saisonniers ; gestion complète des ventes & services clients, incluant check-ins, entretien, restauration, programmes récréatifs et activités d'hôtellerie sur mesure.",
+          "Développement de stratégies marketing par bouche-à-oreille et offices de tourisme locaux.",
+          "Connaissances pratiques en prestation de services d'hôtellerie et satisfaction client."
+        ]
+      }
+    ],
+    "edu_heading": "Formation",
+    "edu_degree": "BBA – Banque & Finance",
+    "edu_school": "Université Adelphi – NY, USA | 1991",
+    "edu_details": "Liste d'Honneur | Cours : Finance, Banque Internationale, Comptabilité, Marketing, Analyse d'Investissement",
+    "tech_heading": "Stack Technologique",
+    "tech_text": "MLS • CRM & Entonnoirs de Vente • Admin ERP • Domotique • Google Workspace • Shopify • Kajabi • Lofty • Squarespace • Wix • NetSuite Oracle • Microsoft Office Suite • Adobe Creative Cloud • ChatGPT • Claude Code certifié • Gemini • GenSpark • MidJourney • Canva • DeepSeek • HeyGen • Caption • eGo • Google AI Studio • Xero • Voixia • Twilio • Zoom • Otter • Speechify • Facebook • Instagram • LinkedIn • X (Twitter) • TikTok • YouTube • Discord • HubSpot • Architecture & Gestion Réseau • ISO • Windows",
+    "lang_heading": "Langues",
+    "lang_fluent": "Anglais, Français & Hébreu (Langue Maternelle Courante)",
+    "lang_learning": "Portugais & Espagnol (En Apprentissage)",
+    "goals_heading": "Objectifs Professionnels",
+    "goals_text": "À la recherche d'opportunités de leadership dans l'immobilier, l'hôtellerie ou la gestion d'actifs où l'innovation, la technologie et l'exécution stratégique peuvent créer de la croissance et de la valeur.",
+    "aff_heading": "Groupes & Affiliations",
+    "affiliations": [
+      "REIGNation Real Estate Community – Fondateur & Membre",
+      "MED Condo Board – Président",
+      "American Club of Lisbon – Membre Actif",
+      "International Portuguese Club – Membre Actif",
+      "AEPi Alumni Association – Membre Actif",
+      "Adelphi University Alumni Association – Membre Actif",
+      "Miami Realtor® Association – Membre Actif",
+      "National Association of REALTORS (NAR) – Membre",
+      "DiSi Credito, Playa Beach Company, CenterStage, Mountain Breeze, AdvanceFigures, & Dave T Productions – Conseil Consultatif/d'Administration.",
+      "New York Road Runners (NYRR) – Membre"
+    ],
+    "int_heading": "Centres d'Intérêt",
+    "interests": [
+      "Passionné des actualités mondiales et des affaires courantes, avec un fort intérêt pour les marchés financiers, la politique, l'immobilier, l'économie, l'IA, la blockchain, l'informatique quantique, les énergies renouvelables, la biotechnologie et la robotique.",
+      "Un bon vivant heureux passionné par la cuisine mondiale et la cuisine maison, avec un mode de vie actif (course à pied, randonnée, golf, cyclisme, tennis, fitness), les voyages fréquents, l'exploration culturelle et l'engagement communautaire."
+    ]
+  },
+
+  "pt": {
+    "out_suffix": "-PT",
+    "name": "Eytan Benzeno",
+    "portugal": "Portugal", "usa": "EUA",
+    "locations_label": "Localizações:",
+    "locations": "Lisboa, Luxemburgo, Miami",
+    "tagline": "Tecnólogo, Operador, Marketeer",
+    "license1": "Corretor Imobiliário Licenciado na Flórida,",
+    "license2": "Mediador Imobiliário Licenciado IMI (Portugal)",
+    "summary_heading": "Resumo Profissional",
+    "summary": "Operador sénior com mais de 20 anos de experiência em imobiliário, tecnologia, operações, gestão de ativos, e-commerce e banca. Sucesso comprovado na expansão e reposicionamento de empreendimentos—desde o desenvolvimento de negócios de e-commerce multimilionários até ao aconselhamento em investimentos imobiliários e gestão de portfólios de hospitalidade de alto desempenho. Especialista em estabilizar a execução, gerir riscos de entrega e garantir que ativos e projetos de elevado valor funcionem de forma fiável em condições reais. Altamente proficiente em inteligência artificial, tecnologia empresarial, marketing digital, geração de leads e experiência do cliente. Ativo em Portugal, Luxemburgo e Estados Unidos, focado na execução operacional, estratégias de vendas, tecnologias emergentes e investimentos transfronteiriços. Traz liderança ágil, fortes competências de negociação e uma mentalidade orientada para resultados.",
+    "competence_heading": "Competências Principais",
+    "competence": "Operações • Gestão de Projetos • E-commerce • Inteligência Artificial • Estratégia Empresarial • Estratégia de Marketing • Publicidade Digital • Redes Sociais • Liderança de Equipa • Investimento Imobiliário • Estruturação de Negócios • Otimização de Ativos • Aquisição e Gestão de Propriedades • Hospitalidade • Vendas • Tecnologia",
+    "experience_heading": "Experiência Profissional",
+    "jobs": [
+      {
+        "title": "Fundador & Sócio",
+        "company": "SoldHere, LDA – Lisboa, Portugal | Março 2023 – Presente",
+        "bullets": [
+          "Licenciado pelo IMI para mediar transações imobiliárias em Portugal.",
+          "Colaboração com promotores em aquisição de terrenos, licenciamento de loteamentos e aprovação de planos de construção em Portugal.",
+          "Gestão de aquisição, vendas, reposicionamento, licenciamento e estratégia de arrendamento de curta duração para propriedades de alto rendimento em Portugal.",
+          "Utilização de IA e ferramentas digitais para segmentação de clientes, automação e otimização operacional.",
+          "Supervisão do ciclo de vida operacional completo, incluindo licenciamento AL, experiência do hóspede e análise de desempenho."
+        ]
+      },
+      {
+        "title": "Co-Fundador & Parceiro Tecnológico",
+        "company": "Bogen.ai / REIGNation Mastermind – Remoto/EUA | Maio 2023 – Presente",
+        "bullets": [
+          "Construção de uma plataforma de coaching e mastermind por subscrição ao serviço de 400+ profissionais imobiliários.",
+          "Função de responsável tecnológico, liderando o desenvolvimento da plataforma, integrações de IA, estratégias de marketing e fluxos de trabalho de automação.",
+          "Conceção e liderança de formações para agentes imobiliários sobre o uso de IA.",
+          "Implementação de sistemas de automação e segmentação para melhorar a segmentação de clientes e a experiência dos membros."
+        ]
+      },
+      {
+        "title": "Corretor Imobiliário Licenciado & Consultor Imobiliário",
+        "company": "BeachFront Realty – Sul da Flórida, EUA | 2009 – Presente",
+        "bullets": [
+          "Especialização em farming imobiliário, desenvolvendo relações de longo prazo em mercados geográficos alvo.",
+          "Trabalho em imobiliário residencial e comercial, incluindo propriedades de investimento, espaços de retalho e desenvolvimentos de uso misto.",
+          "Colaboração com promotores em aquisição de terrenos e aprovação de planos de construção na Flórida.",
+          "Especialização em novas construções de luxo e condomínios frente ao mar para clientes americanos e internacionais.",
+          "Aplicação de análise preditiva, IA e ferramentas CRM avançadas para gerar leads e estruturar percursos de vendas personalizados.",
+          "Desenvolvimento de campanhas digitais de marca para captar clientela abastada."
+        ]
+      },
+      {
+        "title": "Fundador & CEO",
+        "company": "BeachStore.com – EUA | 1999 – 2020",
+        "bullets": [
+          "Lançamento e escala de uma marca de e-commerce direto ao consumidor num negócio multimilionário.",
+          "Crescimento do negócio para 3 milhões de dólares em vendas sazonais por verão, com vendas totais a ultrapassar 30 milhões de dólares ao longo de 15 anos.",
+          "Primeiro negócio de e-commerce a vender cadeiras de praia online; pioneiro e líder de mercado na categoria durante mais de 15 anos.",
+          "Direção de toda a publicidade digital (SEO, PPC e Redes Sociais), criação de conteúdo, design de produtos, logística, operações e armazenamento.",
+          "Construção e posicionamento de uma marca de estilo de vida combinando insights sazonais com estratégias de envolvimento digital."
+        ]
+      },
+      {
+        "title": "Oficial de Banca Internacional",
+        "company": "Republic National Bank (posteriormente HSBC) – Nova Iorque, NY | 1991 – 2003",
+        "bullets": [
+          "Gestão de contas bancárias internacionais e liderança de integrações de sistemas de grande escala.",
+          "Direção do projeto de conformidade Y2K envolvendo 3.400+ aplicações e 400 consultores.",
+          "Desenvolvimento de processos de inteligência empresarial para análise financeira, avaliação de riscos e previsão operacional.",
+          "Aquisição de experiência em operações financeiras que apoiou a due diligence e estruturação de investimentos imobiliários."
+        ]
+      },
+      {
+        "title": "Gerente, Summer House Bed & Breakfast",
+        "company": "Negócio Privado de Hospitalidade – Nova Iorque, EUA | Verões, 1993–2003",
+        "bullets": [
+          "Gestão de vendas sazonais e operações de B&Bs em Fire Island e nos Hamptons durante mais de uma década.",
+          "Gestão de todos os aspetos de vendas e serviços ao hóspede, incluindo check-ins, limpeza, restauração, programação recreativa e atividades personalizadas.",
+          "Desenvolvimento de estratégias de marketing através do boca-a-boca e de juntas de turismo locais.",
+          "Aquisição de conhecimento prático em prestação de serviços de hospitalidade e satisfação do hóspede."
+        ]
+      }
+    ],
+    "edu_heading": "Formação",
+    "edu_degree": "BBA – Banca & Finanças",
+    "edu_school": "Universidade Adelphi – NY, EUA | 1991",
+    "edu_details": "Lista de Honra | Disciplinas: Finanças, Banca Internacional, Contabilidade, Marketing, Análise de Investimentos",
+    "tech_heading": "Stack Tecnológico",
+    "tech_text": "MLS • CRM & Funis de Vendas • Admin ERP • Automação Residencial • Google Workspace • Shopify • Kajabi • Lofty • Squarespace • Wix • NetSuite Oracle • Microsoft Office Suite • Adobe Creative Cloud • ChatGPT • Claude Code certificado • Gemini • GenSpark • MidJourney • Canva • DeepSeek • HeyGen • Caption • eGo • Google AI Studio • Xero • Voixia • Twilio • Zoom • Otter • Speechify • Facebook • Instagram • LinkedIn • X (Twitter) • TikTok • YouTube • Discord • HubSpot • Arquitetura & Gestão de Redes • ISO • Windows",
+    "lang_heading": "Idiomas",
+    "lang_fluent": "Inglês, Francês & Hebraico (Fluente Nativo)",
+    "lang_learning": "Português & Espanhol (A Aprender)",
+    "goals_heading": "Objetivos Profissionais",
+    "goals_text": "À procura de oportunidades de liderança em imobiliário, hospitalidade ou gestão de ativos onde a inovação, a tecnologia e a execução estratégica possam impulsionar o crescimento e a criação de valor.",
+    "aff_heading": "Grupos & Afiliações",
+    "affiliations": [
+      "REIGNation Real Estate Community – Fundador & Membro",
+      "MED Condo Board – Presidente",
+      "American Club of Lisbon – Membro Ativo",
+      "International Portuguese Club – Membro Ativo",
+      "AEPi Alumni Association – Membro Ativo",
+      "Adelphi University Alumni Association – Membro Ativo",
+      "Miami Realtor® Association – Membro Ativo",
+      "National Association of REALTORS (NAR) – Membro",
+      "DiSi Credito, Playa Beach Company, CenterStage, Mountain Breeze, AdvanceFigures, & Dave T Productions – Conselho Consultivo/de Administração.",
+      "New York Road Runners (NYRR) – Membro"
+    ],
+    "int_heading": "Interesses Pessoais",
+    "interests": [
+      "Seguidor ávido das notícias e assuntos mundiais, com forte foco nos mercados financeiros, política, imobiliário, economia, IA, blockchain, computação quântica, energias renováveis, biotecnologia e robótica.",
+      "Um bon vivant feliz apaixonado pela cozinha global e culinária caseira, com um estilo de vida ativo (corrida, caminhadas, golfe, ciclismo, ténis, fitness), viagens frequentes, exploração cultural e envolvimento comunitário."
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "en": {
+    "out_suffix": "",
+    "name": "Eytan Benzeno",
+    "title": "Technologist  ·  Operator  ·  Marketer",
+    "license": "Licensed Florida Real Estate Broker  ·  IMI Licensed Real Estate Broker (Portugal)",
+    "contact": [
+      "✉  eytan@benzeno.com",
+      "✆  +351 93 999 5889 (PT)  ·  +1 786 727 0696 (US)",
+      "⊙  Lisbon  ·  Luxembourg  ·  Miami"
+    ],
+    "summary_h": "About Me",
+    "summary": "Senior operator, 20+ yrs across real estate, technology, e-commerce & banking. Expert in AI integration, cross-border investment (Portugal, Luxembourg, USA) and operational execution. Agile deal-maker with a results-oriented mindset.",
+    "skills_h": "Core Skills",
+    "skills": [
+      {"name": "Operations & Strategy", "level": 5},
+      {"name": "AI & Technology",       "level": 5},
+      {"name": "Real Estate",           "level": 5},
+      {"name": "E-commerce",            "level": 5},
+      {"name": "Digital Marketing",     "level": 4},
+      {"name": "Business Dev",          "level": 4}
+    ],
+    "lang_h": "Languages",
+    "langs": [
+      {"name": "English",    "level": 5, "note": "Native"},
+      {"name": "French",     "level": 5, "note": "Native"},
+      {"name": "Hebrew",     "level": 5, "note": "Native"},
+      {"name": "Portuguese", "level": 2, "note": "Learning"},
+      {"name": "Spanish",    "level": 2, "note": "Learning"}
+    ],
+    "edu_h": "Education",
+    "edu_degree": "BBA – Banking & Finance",
+    "edu_school": "Adelphi University · NY · 1991",
+    "edu_note": "Dean's List",
+    "aff_h": "Affiliations",
+    "affs": [
+      "REIGNation Community – Founder",
+      "MED Condo Board – President",
+      "American Club of Lisbon",
+      "Miami Realtor® Association",
+      "NAR · NYRR – Member"
+    ],
+    "int_h": "Interests",
+    "interests": "Finance · AI · Blockchain · Quantum · Biotech · Gastronomy · Running · Golf",
+    "exp_h": "Professional Experience",
+    "jobs": [
+      {
+        "title": "Founder & Partner",
+        "co": "SoldHere, LDA  ·  Lisbon, Portugal  ·  March 2023 – Present",
+        "achieve": ["IMI Licensed", "High-yield portfolios"],
+        "bullets": [
+          "Licensed by IMI to mediate real estate transactions in Portugal.",
+          "Managed acquisition, repositioning & short-term rental strategy for high-yield properties.",
+          "Leveraged AI & digital tools for customer targeting, automation & operational optimization.",
+          "Collaborated with developers on land acquisition, subdivision licensing & building approvals."
+        ]
+      },
+      {
+        "title": "Co-Founder & Technology Partner",
+        "co": "Bogen.ai / REIGNation Mastermind  ·  Remote/USA  ·  May 2023 – Present",
+        "achieve": ["400+ members", "AI-first platform"],
+        "bullets": [
+          "Built subscription coaching & mastermind platform serving 400+ real estate professionals.",
+          "Head of Technology: platform dev, AI integrations, marketing automation & member experience.",
+          "Designed & led AI courses for realtors; implemented segmentation for better engagement."
+        ]
+      },
+      {
+        "title": "Licensed Real Estate Broker & Advisor",
+        "co": "BeachFront Realty  ·  South Florida, USA  ·  2009 – Present",
+        "achieve": null,
+        "bullets": [
+          "Specializing in high-end new construction, waterfront condos & investment properties.",
+          "Applied predictive analytics, AI & advanced CRM to generate leads & structure sales.",
+          "Developed branded digital campaigns targeting affluent U.S. & international clientele."
+        ]
+      },
+      {
+        "title": "Founder & CEO",
+        "co": "BeachStore.com  ·  USA  ·  1999 – 2020",
+        "achieve": ["$3M / summer", "$30M+ lifetime"],
+        "bullets": [
+          "Launched & scaled direct-to-consumer e-commerce brand into a multi-million-dollar business.",
+          "First-to-market selling beach chairs online; market leader for 15+ years.",
+          "Directed SEO, PPC & Social Media advertising, product design, logistics & operations."
+        ]
+      },
+      {
+        "title": "International Banking Officer",
+        "co": "Republic National Bank / HSBC  ·  New York, NY  ·  1991 – 2003",
+        "achieve": ["Y2K: 3,400+ apps", "400 consultants"],
+        "bullets": [
+          "Managed international banking accounts & led large-scale system integrations.",
+          "Directed Y2K compliance project across 3,400+ applications with 400 consultants.",
+          "Developed BI processes for financial analysis, risk assessment & operational forecasting."
+        ]
+      },
+      {
+        "title": "Manager, Summer House Bed & Breakfast",
+        "co": "Private Hospitality  ·  Fire Island & Hamptons, NY  ·  Summers 1993–2003",
+        "achieve": null,
+        "bullets": [
+          "Operated seasonal B&B properties; strong repeat clientele via word-of-mouth strategy."
+        ]
+      }
+    ],
+    "tech_h": "Tech Stack",
+    "tech": "MLS  ·  CRM & Sales Funnels  ·  ERP Admin  ·  Google Workspace  ·  Shopify  ·  Kajabi  ·  Lofty  ·  NetSuite Oracle  ·  Adobe CC  ·  ChatGPT  ·  Claude Code certified  ·  Gemini  ·  GenSpark  ·  MidJourney  ·  Canva  ·  DeepSeek  ·  HeyGen  ·  Google AI Studio  ·  Xero  ·  Twilio  ·  Zoom  ·  HubSpot  ·  Facebook  ·  Instagram  ·  LinkedIn  ·  X (Twitter)  ·  TikTok  ·  YouTube  ·  Discord  ·  ISO  ·  Windows",
+    "goals_h": "Professional Goals",
+    "goals": "Seeking leadership in real estate, hospitality or asset management where innovation, technology and strategic execution drive growth and value creation."
+  },
+
+  "fr": {
+    "out_suffix": "-FR",
+    "name": "Eytan Benzeno",
+    "title": "Technologue  ·  Opérateur  ·  Marketeur",
+    "license": "Courtier Immobilier Agréé en Floride  ·  Courtier IMI Agréé (Portugal)",
+    "contact": [
+      "✉  eytan@benzeno.com",
+      "✆  +351 93 999 5889 (PT)  ·  +1 786 727 0696 (US)",
+      "⊙  Lisbonne  ·  Luxembourg  ·  Miami"
+    ],
+    "summary_h": "À Propos",
+    "summary": "Opérateur senior, 20+ ans en immobilier, technologie, e-commerce & banque. Expert en IA, investissement transfrontalier (Portugal, Luxembourg, USA) et exécution opérationnelle. Leader agile et négociateur expérimenté.",
+    "skills_h": "Compétences Clés",
+    "skills": [
+      {"name": "Opérations & Stratégie",  "level": 5},
+      {"name": "IA & Technologie",        "level": 5},
+      {"name": "Immobilier",              "level": 5},
+      {"name": "E-commerce",              "level": 5},
+      {"name": "Marketing Digital",       "level": 4},
+      {"name": "Dév. Business",           "level": 4}
+    ],
+    "lang_h": "Langues",
+    "langs": [
+      {"name": "Anglais",   "level": 5, "note": "Natif"},
+      {"name": "Français",  "level": 5, "note": "Natif"},
+      {"name": "Hébreu",    "level": 5, "note": "Natif"},
+      {"name": "Portugais", "level": 2, "note": "Apprentissage"},
+      {"name": "Espagnol",  "level": 2, "note": "Apprentissage"}
+    ],
+    "edu_h": "Formation",
+    "edu_degree": "BBA – Banque & Finance",
+    "edu_school": "Université Adelphi · NY · 1991",
+    "edu_note": "Liste d'Honneur",
+    "aff_h": "Affiliations",
+    "affs": [
+      "REIGNation Community – Fondateur",
+      "MED Condo Board – Président",
+      "American Club of Lisbon",
+      "Miami Realtor® Association",
+      "NAR · NYRR – Membre"
+    ],
+    "int_h": "Intérêts",
+    "interests": "Finance · IA · Blockchain · Quantique · Biotech · Gastronomie · Course · Golf",
+    "exp_h": "Expérience Professionnelle",
+    "jobs": [
+      {
+        "title": "Fondateur & Associé",
+        "co": "SoldHere, LDA  ·  Lisbonne, Portugal  ·  Mars 2023 – Présent",
+        "achieve": ["Agréé IMI", "Propriétés haut rendement"],
+        "bullets": [
+          "Agréé par l'IMI pour la médiation de transactions immobilières au Portugal.",
+          "Gestion de l'acquisition, repositionnement & stratégie de location courte durée.",
+          "Utilisation de l'IA & outils digitaux pour ciblage client et optimisation opérationnelle.",
+          "Collaboration avec promoteurs sur acquisition de terrains & approbations de construction."
+        ]
+      },
+      {
+        "title": "Co-Fondateur & Partenaire Technologique",
+        "co": "Bogen.ai / REIGNation Mastermind  ·  Remote/USA  ·  Mai 2023 – Présent",
+        "achieve": ["400+ membres", "Plateforme IA-first"],
+        "bullets": [
+          "Construction d'une plateforme de coaching par abonnement pour 400+ professionnels immobiliers.",
+          "Responsable Technologique : dev plateforme, intégrations IA, automatisation marketing.",
+          "Formation IA pour agents immobiliers ; segmentation pour améliorer l'engagement."
+        ]
+      },
+      {
+        "title": "Courtier Immobilier Agréé & Conseiller",
+        "co": "BeachFront Realty  ·  Sud Floride, USA  ·  2009 – Présent",
+        "achieve": null,
+        "bullets": [
+          "Spécialisé en nouvelles constructions haut de gamme, condos en bord de mer & investissements.",
+          "Application de l'analyse prédictive, IA & CRM avancé pour générer des leads.",
+          "Campagnes digitales de marque ciblant une clientèle aisée américaine et internationale."
+        ]
+      },
+      {
+        "title": "Fondateur & PDG",
+        "co": "BeachStore.com  ·  USA  ·  1999 – 2020",
+        "achieve": ["3 M$/été", "+30 M$ au total"],
+        "bullets": [
+          "Lancement & mise à l'échelle d'une marque e-commerce en une entreprise multi-millionnaire.",
+          "Premier à vendre des chaises de plage en ligne ; leader du marché pendant 15+ ans.",
+          "Direction SEO, PPC & Médias Sociaux, conception produits, logistique & opérations."
+        ]
+      },
+      {
+        "title": "Chargé de Clientèle Bancaire International",
+        "co": "Republic National Bank / HSBC  ·  New York, NY  ·  1991 – 2003",
+        "achieve": ["Y2K : 3 400+ apps", "400 consultants"],
+        "bullets": [
+          "Gestion de comptes bancaires internationaux & intégrations systèmes à grande échelle.",
+          "Direction du projet de conformité Y2K : 3 400+ applications, 400 consultants.",
+          "Processus BI pour analyse financière, évaluation des risques & prévision opérationnelle."
+        ]
+      },
+      {
+        "title": "Directeur, Summer House Bed & Breakfast",
+        "co": "Hôtellerie Privée  ·  Fire Island & Hamptons, NY  ·  Étés 1993–2003",
+        "achieve": null,
+        "bullets": [
+          "Exploitation de chambres d'hôtes saisonnières — forte clientèle fidèle par bouche-à-oreille."
+        ]
+      }
+    ],
+    "tech_h": "Stack Technologique",
+    "tech": "MLS  ·  CRM & Entonnoirs  ·  Admin ERP  ·  Google Workspace  ·  Shopify  ·  Kajabi  ·  Lofty  ·  NetSuite Oracle  ·  Adobe CC  ·  ChatGPT  ·  Claude Code certifié  ·  Gemini  ·  GenSpark  ·  MidJourney  ·  Canva  ·  DeepSeek  ·  HeyGen  ·  Google AI Studio  ·  Xero  ·  Twilio  ·  Zoom  ·  HubSpot  ·  Facebook  ·  Instagram  ·  LinkedIn  ·  X (Twitter)  ·  TikTok  ·  YouTube  ·  Discord  ·  ISO  ·  Windows",
+    "goals_h": "Objectifs Professionnels",
+    "goals": "À la recherche d'opportunités de leadership en immobilier, hôtellerie ou gestion d'actifs où l'innovation et l'exécution stratégique créent de la croissance et de la valeur."
+  },
+
+  "pt": {
+    "out_suffix": "-PT",
+    "name": "Eytan Benzeno",
+    "title": "Tecnólogo  ·  Operador  ·  Marketeer",
+    "license": "Corretor Imobiliário Licenciado na Flórida  ·  Mediador IMI Licenciado (Portugal)",
+    "contact": [
+      "✉  eytan@benzeno.com",
+      "✆  +351 93 999 5889 (PT)  ·  +1 786 727 0696 (EUA)",
+      "⊙  Lisboa  ·  Luxemburgo  ·  Miami"
+    ],
+    "summary_h": "Sobre Mim",
+    "summary": "Operador sénior, 20+ anos em imobiliário, tecnologia, e-commerce & banca. Especialista em IA, investimento transfronteiriço (Portugal, Luxemburgo, EUA) e execução operacional. Líder ágil com forte capacidade negocial.",
+    "skills_h": "Competências Principais",
+    "skills": [
+      {"name": "Operações & Estratégia",  "level": 5},
+      {"name": "IA & Tecnologia",         "level": 5},
+      {"name": "Imobiliário",             "level": 5},
+      {"name": "E-commerce",              "level": 5},
+      {"name": "Marketing Digital",       "level": 4},
+      {"name": "Desen. Negócios",         "level": 4}
+    ],
+    "lang_h": "Idiomas",
+    "langs": [
+      {"name": "Inglês",    "level": 5, "note": "Nativo"},
+      {"name": "Francês",   "level": 5, "note": "Nativo"},
+      {"name": "Hebraico",  "level": 5, "note": "Nativo"},
+      {"name": "Português", "level": 2, "note": "A Aprender"},
+      {"name": "Espanhol",  "level": 2, "note": "A Aprender"}
+    ],
+    "edu_h": "Formação",
+    "edu_degree": "BBA – Banca & Finanças",
+    "edu_school": "Universidade Adelphi · NY · 1991",
+    "edu_note": "Lista de Honra",
+    "aff_h": "Afiliações",
+    "affs": [
+      "REIGNation Community – Fundador",
+      "MED Condo Board – Presidente",
+      "American Club of Lisbon",
+      "Miami Realtor® Association",
+      "NAR · NYRR – Membro"
+    ],
+    "int_h": "Interesses",
+    "interests": "Finanças · IA · Blockchain · Quântica · Biotech · Gastronomia · Corrida · Golfe",
+    "exp_h": "Experiência Profissional",
+    "jobs": [
+      {
+        "title": "Fundador & Sócio",
+        "co": "SoldHere, LDA  ·  Lisboa, Portugal  ·  Março 2023 – Presente",
+        "achieve": ["Licenciado IMI", "Alto rendimento"],
+        "bullets": [
+          "Licenciado pelo IMI para mediar transações imobiliárias em Portugal.",
+          "Gestão de aquisição, reposicionamento & estratégia de arrendamento de curta duração.",
+          "Utilização de IA & ferramentas digitais para segmentação de clientes e otimização.",
+          "Colaboração com promotores em aquisição de terrenos & aprovações de construção."
+        ]
+      },
+      {
+        "title": "Co-Fundador & Parceiro Tecnológico",
+        "co": "Bogen.ai / REIGNation Mastermind  ·  Remoto/EUA  ·  Maio 2023 – Presente",
+        "achieve": ["400+ membros", "Plataforma IA-first"],
+        "bullets": [
+          "Plataforma de coaching por subscrição para 400+ profissionais imobiliários.",
+          "Responsável Tecnológico: dev plataforma, integrações IA, automação de marketing.",
+          "Formações IA para agentes imobiliários; segmentação para melhor envolvimento."
+        ]
+      },
+      {
+        "title": "Corretor Imobiliário Licenciado & Consultor",
+        "co": "BeachFront Realty  ·  Sul da Flórida, EUA  ·  2009 – Presente",
+        "achieve": null,
+        "bullets": [
+          "Especialização em novas construções de luxo, condomínios frente ao mar & investimentos.",
+          "Análise preditiva, IA & CRM avançado para gerar leads e estruturar vendas.",
+          "Campanhas digitais de marca para clientela abastada americana e internacional."
+        ]
+      },
+      {
+        "title": "Fundador & CEO",
+        "co": "BeachStore.com  ·  EUA  ·  1999 – 2020",
+        "achieve": ["3 M$/verão", "+30 M$ no total"],
+        "bullets": [
+          "Lançamento & escala de marca e-commerce direto ao consumidor num negócio multimilionário.",
+          "Pioneiro a vender cadeiras de praia online; líder de mercado durante 15+ anos.",
+          "Direção SEO, PPC & Redes Sociais, design de produto, logística & operações."
+        ]
+      },
+      {
+        "title": "Oficial de Banca Internacional",
+        "co": "Republic National Bank / HSBC  ·  Nova Iorque, NY  ·  1991 – 2003",
+        "achieve": ["Y2K: 3.400+ apps", "400 consultores"],
+        "bullets": [
+          "Gestão de contas bancárias internacionais & integrações de sistemas de grande escala.",
+          "Direção do projeto Y2K: 3.400+ aplicações, 400 consultores.",
+          "Processos de BI para análise financeira, avaliação de riscos & previsão operacional."
+        ]
+      },
+      {
+        "title": "Gerente, Summer House Bed & Breakfast",
+        "co": "Hospitalidade Privada  ·  Fire Island & Hamptons, NY  ·  Verões 1993–2003",
+        "achieve": null,
+        "bullets": [
+          "B&Bs sazonais — forte clientela fiel através de estratégia boca-a-boca."
+        ]
+      }
+    ],
+    "tech_h": "Stack Tecnológico",
+    "tech": "MLS  ·  CRM & Funis  ·  Admin ERP  ·  Google Workspace  ·  Shopify  ·  Kajabi  ·  Lofty  ·  NetSuite Oracle  ·  Adobe CC  ·  ChatGPT  ·  Claude Code certificado  ·  Gemini  ·  GenSpark  ·  MidJourney  ·  Canva  ·  DeepSeek  ·  HeyGen  ·  Google AI Studio  ·  Xero  ·  Twilio  ·  Zoom  ·  HubSpot  ·  Facebook  ·  Instagram  ·  LinkedIn  ·  X (Twitter)  ·  TikTok  ·  YouTube  ·  Discord  ·  ISO  ·  Windows",
+    "goals_h": "Objetivos Profissionais",
+    "goals": "À procura de oportunidades de liderança em imobiliário, hospitalidade ou gestão de ativos onde inovação e execução estratégica impulsionem crescimento e valor."
+  }
+}

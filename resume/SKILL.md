@@ -1,6 +1,6 @@
 ---
 name: resume
-description: Use this skill when the user wants to update, modify, customize, or regenerate their resume PDF. Handles content edits, auto-translation to French and Portuguese, job-specific customization, layout choice (modern vs classic), and PDF generation for eytan.com.
+description: Update, customize, or regenerate Eytan's resume PDFs. Edits content, auto-translates EN→FR/PT, supports modern and classic layouts, and customizes per job application.
 ---
 
 # Resume PDF Manager — Eytan Benzeno

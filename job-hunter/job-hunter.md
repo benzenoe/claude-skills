@@ -221,7 +221,7 @@ Generate a comprehensive report in this format:
 - If a site requires authentication or is blocked, note it and move to the next
 - Focus on quality matches over quantity
 - Tailor each cover letter - no copy-paste generic letters
-- Save the report to: `/Users/eytanbenzeno/Documents/job-search/` with timestamp
+- Save the report to: `~/claude-code/job-hunter/reports/` with timestamp
 
 ---
 

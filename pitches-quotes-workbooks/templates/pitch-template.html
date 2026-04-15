@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[CLIENT NAME] — [SERVICE] Pitch</title>
+  <style>
+    /* ==================== CSS VARIABLES ==================== */
+    :root {
+      --primary: #00a8e1;
+      --navy: #0d1620;
+      --teal: #2B6166;
+      --gold: #ffd93d;
+      --green: #00c48c;
+      --white: #f0f4f8;
+      --gray: #8899aa;
+
+      --bg: #0d1620;
+      --text: #f0f4f8;
+      --text-light: #8899aa;
+      --border: rgba(255,255,255,0.08);
+      --card-bg: rgba(255,255,255,0.03);
+    }
+
+    [data-theme="light"] {
+      --bg: #ffffff;
+      --text: #1a1a1a;
+      --text-light: #666666;
+      --border: rgba(0,0,0,0.1);
+      --card-bg: #f8f9fa;
+      --navy: #1a1a1a;
+      --white: #0d1620;
+    }
+
+    /* ==================== BASE STYLES ==================== */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    /* ==================== THEME TOGGLE ==================== */
+    .theme-toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--card-bg);
+      padding: 8px 16px;
+      border-radius: 50px;
+      border: 1px solid var(--border);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .theme-toggle:hover {
+      background: rgba(0,168,225,0.1);
+      border-color: var(--primary);
+    }
+
+    .theme-toggle-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-light);
+    }
+
+    .toggle-switch {
+      width: 40px;
+      height: 20px;
+      background: var(--border);
+      border-radius: 10px;
+      position: relative;
+      transition: background 0.3s ease;
+    }
+
+    .toggle-switch::after {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      background: var(--primary);
+      border-radius: 50%;
+      top: 2px;
+      left: 2px;
+      transition: transform 0.3s ease;
+    }
+
+    [data-theme="dark"] .toggle-switch::after {
+      transform: translateX(20px);
+    }
+
+    /* ==================== PDF DOWNLOAD ==================== */
+    .pdf-download {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      z-index: 1000;
+    }
+
+    .pdf-download button {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--primary);
+      color: var(--white);
+      padding: 12px 24px;
+      border: none;
+      border-radius: 50px;
+      font-family: inherit;
+      font-size: 10pt;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      cursor: pointer;
+      box-shadow: 0 4px 20px rgba(0,168,225,0.4);
+      transition: all 0.3s ease;
+    }
+
+    .pdf-download button:hover {
+      background: #008aba;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 24px rgba(0,168,225,0.5);
+    }
+
+    .pdf-download button svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+    }
+
+    /* ==================== PDF MODAL ==================== */
+    .pdf-modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.85);
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .pdf-modal-overlay.active {
+      display: flex;
+    }
+
+    .pdf-modal {
+      background: var(--bg);
+      border-radius: 8px;
+      width: 100%;
+      max-width: 1200px;
+      height: 90vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 10px 50px rgba(0, 0, 0, 0.5);
+    }
+
+    .pdf-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 30px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .pdf-modal-title {
+      font-size: 14pt;
+      font-weight: 600;
+      color: var(--text);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .pdf-modal-actions {
+      display: flex;
+      gap: 12px;
+    }
+
+    .pdf-modal-actions button {
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 9pt;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: none;
+    }
+
+    .btn-close-modal {
+      background: transparent;
+      color: var(--text-light);
+      border: 1px solid var(--border);
+    }
+
+    .btn-close-modal:hover {
+      background: rgba(0, 0, 0, 0.1);
+      color: var(--text);
+    }
+
+    .btn-confirm-download {
+      background: var(--primary);
+      color: var(--white);
+    }
+
+    .btn-confirm-download:hover {
+      background: #008aba;
+    }
+
+    .pdf-modal-body {
+      flex: 1;
+      overflow: hidden;
+      background: #525659;
+    }
+
+    .pdf-modal-body iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    /* ==================== LAYOUT ==================== */
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 5rem 2rem;
+    }
+
+    /* ==================== HERO ==================== */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: linear-gradient(135deg, var(--navy) 0%, var(--teal) 100%);
+      padding: 2rem;
+      position: relative;
+    }
+
+    .hero h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-weight: 700;
+      margin-bottom: 1rem;
+      color: var(--white);
+    }
+
+    .hero .subtitle {
+      font-size: clamp(1.2rem, 2vw, 1.5rem);
+      color: rgba(255,255,255,0.9);
+      max-width: 700px;
+    }
+
+    /* ==================== SECTIONS ==================== */
+    section {
+      padding: 5rem 0;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+      margin-bottom: 1.5rem;
+      color: var(--navy);
+    }
+
+    /* ==================== CARDS ==================== */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem;
+      transition: all 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,168,225,0.15);
+      border-color: var(--primary);
+    }
+
+    .card h3 {
+      font-size: 1.4rem;
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    /* ==================== CTA ==================== */
+    .cta-section {
+      text-align: center;
+      padding: 5rem 2rem;
+      background: var(--card-bg);
+      border-radius: 12px;
+    }
+
+    .cta-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      background: linear-gradient(135deg, var(--primary), #0080b0);
+      color: var(--white);
+      padding: 16px 32px;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      border: none;
+      cursor: pointer;
+    }
+
+    .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0,168,225,0.3);
+    }
+
+    /* ==================== PRINT STYLES ==================== */
+    @media print {
+      .theme-toggle,
+      .pdf-download,
+      .pdf-modal-overlay {
+        display: none !important;
+      }
+
+      @page {
+        size: letter;
+        margin: 0.5in;
+      }
+
+      body {
+        background: white;
+        color: #333;
+      }
+
+      * {
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+      }
+    }
+  </style>
+</head>
+<body data-theme="light">
+
+  <!-- Theme Toggle -->
+  <div class="theme-toggle" onclick="toggleTheme()">
+    <span class="theme-toggle-label">Light</span>
+    <div class="toggle-switch"></div>
+    <span class="theme-toggle-label">Dark</span>
+  </div>
+
+  <!-- PDF Download Button -->
+  <div class="pdf-download">
+    <button id="downloadBtn">
+      <svg viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+      Download PDF
+    </button>
+  </div>
+
+  <!-- PDF Preview Modal -->
+  <div class="pdf-modal-overlay" id="pdfModal">
+    <div class="pdf-modal">
+      <div class="pdf-modal-header">
+        <div class="pdf-modal-title">[CLIENT NAME] Pitch — Preview</div>
+        <div class="pdf-modal-actions">
+          <button class="btn-close-modal" id="closeModal">Close</button>
+          <button class="btn-confirm-download" id="confirmDownload">Download PDF</button>
+        </div>
+      </div>
+      <div class="pdf-modal-body">
+        <iframe id="pdfFrame"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>[Your Main Value Proposition]</h1>
+    <p class="subtitle">[Supporting statement that explains the benefit]</p>
+  </section>
+
+  <!-- Problem Section -->
+  <div class="container">
+    <section>
+      <h2>The Challenge</h2>
+      <p>[Describe the problem your client is facing]</p>
+    </section>
+
+    <!-- Solution Section -->
+    <section>
+      <h2>Our Solution</h2>
+      <div class="card-grid">
+        <div class="card">
+          <h3>Feature 1</h3>
+          <p>Description of first key feature or benefit</p>
+        </div>
+        <div class="card">
+          <h3>Feature 2</h3>
+          <p>Description of second key feature or benefit</p>
+        </div>
+        <div class="card">
+          <h3>Feature 3</h3>
+          <p>Description of third key feature or benefit</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <h2>Ready to Get Started?</h2>
+      <p style="margin-bottom: 2rem;">Let's discuss how we can help you achieve your goals.</p>
+      <a href="mailto:contact@example.com?subject=Inquiry about [Service]" class="cta-button">
+        Contact Us
+      </a>
+    </section>
+  </div>
+
+  <script>
+    // Theme Toggle
+    function toggleTheme() {
+      const body = document.body;
+      const current = body.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      body.setAttribute('data-theme', next);
+      localStorage.setItem('pitch-theme', next);
+    }
+
+    // Restore saved theme
+    (function() {
+      const saved = localStorage.getItem('pitch-theme');
+      if (saved) {
+        document.body.setAttribute('data-theme', saved);
+      }
+    })();
+
+    // PDF Modal Functions
+    const pdfModal = document.getElementById('pdfModal');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const closeModal = document.getElementById('closeModal');
+    const confirmDownload = document.getElementById('confirmDownload');
+    const pdfFrame = document.getElementById('pdfFrame');
+
+    downloadBtn.addEventListener('click', function() {
+      pdfFrame.src = 'pitch.pdf'; // Update with actual PDF filename
+      pdfModal.classList.add('active');
+    });
+
+    closeModal.addEventListener('click', function() {
+      pdfModal.classList.remove('active');
+      pdfFrame.src = '';
+    });
+
+    confirmDownload.addEventListener('click', function() {
+      const link = document.createElement('a');
+      link.href = 'pitch.pdf'; // Update with actual PDF filename
+      link.download = 'pitch.pdf';
+      link.click();
+    });
+
+    pdfModal.addEventListener('click', function(e) {
+      if (e.target === pdfModal) {
+        pdfModal.classList.remove('active');
+        pdfFrame.src = '';
+      }
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && pdfModal.classList.contains('active')) {
+        pdfModal.classList.remove('active');
+        pdfFrame.src = '';
+      }
+    });
+  </script>
+</body>
+</html>
